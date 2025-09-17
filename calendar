@@ -17,28 +17,28 @@
         <th>Вс</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td><strong>6</strong></td>
-        <td><strong>7</strong></td>
+        <td><s>1</s></td>
+        <td><s>2</s></td>
+        <td><s>3</s></td>
+        <td><s>4</s></td>
+        <td><s>5</s></td>
+        <td><s><strong>6</strong></s></td>
+        <td><s><strong>7</strong></s></td>
     </tr>
     <tr>
-        <td>8</td>
-        <td>9</td>
-        <td>10</td>
-        <td>11</td>
-        <td>12</td>
-        <td><strong>13</strong></td>
-        <td><strong>14</strong></td>
+        <td><s>8</s></td>
+        <td><s>9</s></td>
+        <td><s>10</s></td>
+        <td><s>11</s></td>
+        <td><s>12</s></td>
+        <td><strong><s>13</s></strong></td>
+        <td><strong><s>14</s></strong></td>
     </tr>
     <tr>
-        <td>15</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
+        <td><s>15</s></td>
+        <td><s>16</s></td>
+        <td><s>17</s></td>
+        <td><mark>18</mark></td>
         <td>19</td>
         <td><strong>20</strong></td>
         <td><strong>21</strong></td>
