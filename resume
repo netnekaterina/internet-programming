@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Резюме Размаева Екатерина</title>
+</head>
+<body>
+
+        <h1>Размаева Екатерина</h1>
+        <div>
+            <p><strong>Желаемая должность:</strong> стажер-системный аналитик</p>
+        </div>
+
+    <section>
+        <h2>Контактная информация</h2>
+        <ul>
+            <li><strong>Телефон:</strong> +7 (928) 257-08-53</li>
+            <li><strong>Email:</strong> karazmaeva@gmail.com</li>
+            <li><strong>Telegram:</strong> purpuf</li>
+        </ul>
+    </section>
+
+
+
+    <section>
+        <h2>Образование</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Годы</th>
+                    <th>Учебное заведение</th>
+                    <th>Специальность</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2023-2027</td>
+                    <td>РЭУ им. Г.В. Плеханова</td>
+                    <td>Математическое обеспечение и администрирование информационных систем</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Опыт работы</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Период</th>
+                    <th>Место работы</th>
+                    <th>Должность</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2023-2024</td>
+                    <td>Учебные проекты</td>
+                    <td>Системный аналитик (учебная практика)</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <article>
+        <h2>Навыки</h2>
+        
+        <section>
+            <h3>Технические навыки</h3>
+            <ul>
+                <li>SQL</li>
+                <li>C++</li>
+                <li>Git</li>
+                <li>Excel</li>
+                <li>Figma</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Аналитические навыки</h3>
+            <dl>
+                <dt><strong>Системный анализ</strong></dt>
+                <dd>Работа с требованиями, моделирование процессов</dd>
+                
+                <dt><strong>Моделирование данных</strong></dt>
+                <dd>ER-диаграммы, UML</dd>
+            </dl>
+        </section>
+
+        <section>
+            <h3>Методологии</h3>
+            <ol>
+                <li>Agile</li>
+                <li>Scrum</li>
+                <li>Kanban</li>
+                <li>Waterfall</li>
+            </ol>
+        </section>
+    </article>
+
+    <section>
+        <h2>Изученные темы</h2>
+        <ul>
+            <li>Артефакты и требования</li>
+            <li>Модели жизненного цикла ПО</li>
+            <li>Архитектура приложений</li>
+            <li>Модели процессов и данных</li>
+            <li>Нормализация баз данных</li>
+            <li>Техники сбора требований</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Дата: 2025 год</p>
+        <p>Ссылка: <a href="https://github.com/">Мой GitHub</a></p>
+    </footer>
+
+</body>
+</html>
