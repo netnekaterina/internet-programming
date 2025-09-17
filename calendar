@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Календарь на сентябрь 2025</title>
+</head>
+<body>
+
+<table border="1">
+    <caption>Сентябрь 2025</caption>
+    <tr>
+        <th>Пн</th>
+        <th>Вт</th>
+        <th>Ср</th>
+        <th>Чт</th>
+        <th>Пт</th>
+        <th><strong>Сб</strong></th>
+        <th><strong>Вс</strong></th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td><strong>6</strong></td>
+        <td><strong>7</strong></td>
+    </tr>
+    <tr>
+        <th>8</th>
+        <td>9</td>
+        <td>10</td>
+        <td>11</td>
+        <td>12</td>
+        <td><strong>13</strong></td>
+        <td><strong>14</strong></td>
+    </tr>
+    <tr>
+        <th>15</th>
+        <td>16</td>
+        <td>17</td>
+        <td>18</td>
+        <td>19</td>
+        <td><strong>20</strong></td>
+        <td><strong>21</strong></td>
+    </tr>
+    <tr>
+        <th>22</th>
+        <td>23</td>
+        <td>24</td>
+        <td>25</td>
+        <td>26</td>
+        <td><strong>27</strong></td>
+        <td><strong>28</strong></td>
+    </tr>
+    <tr>
+        <th>29</th>
+        <td>30</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+</body>
+</html>
