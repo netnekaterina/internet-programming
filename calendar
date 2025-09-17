@@ -13,11 +13,11 @@
         <th>Ср</th>
         <th>Чт</th>
         <th>Пт</th>
-        <th><strong>Сб</strong></th>
-        <th><strong>Вс</strong></th>
+        <th>Сб</th>
+        <th>Вс</th>
     </tr>
     <tr>
-        <th>1</th>
+        <td>1</td>
         <td>2</td>
         <td>3</td>
         <td>4</td>
@@ -26,7 +26,7 @@
         <td><strong>7</strong></td>
     </tr>
     <tr>
-        <th>8</th>
+        <td>8</td>
         <td>9</td>
         <td>10</td>
         <td>11</td>
@@ -35,7 +35,7 @@
         <td><strong>14</strong></td>
     </tr>
     <tr>
-        <th>15</th>
+        <td>15</td>
         <td>16</td>
         <td>17</td>
         <td>18</td>
@@ -44,7 +44,7 @@
         <td><strong>21</strong></td>
     </tr>
     <tr>
-        <th>22</th>
+        <td>22</td>
         <td>23</td>
         <td>24</td>
         <td>25</td>
@@ -53,8 +53,9 @@
         <td><strong>28</strong></td>
     </tr>
     <tr>
-        <th>29</th>
+        <td>29</td>
         <td>30</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
