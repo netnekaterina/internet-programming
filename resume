@@ -4,8 +4,10 @@
     <title>Резюме Размаева Екатерина</title>
 </head>
 <body>
-
+	<img src= "D:\Pictures\фоток.JPG" alt = "размаева" width="100" height="50">
+	
         <h1>Размаева Екатерина</h1>
+	
         <div>
             <p><strong>Желаемая должность:</strong> стажер-системный аналитик</p>
         </div>
@@ -111,7 +113,7 @@
 
     <footer>
         <p>Дата: 2025 год</p>
-        <p>Ссылка: <a href="https://github.com/">Мой GitHub</a></p>
+        <p>Ссылка: <a href="https://github.com/netnekaterina/internet-programming/">Мой GitHub</a></p>
     </footer>
 
 </body>
